@@ -1,0 +1,6 @@
+﻿  Coplex.cpp
+D:\Projects\STEP IT\C++ (OOP)\HW\HW\Coplex.cpp(89,51): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Projects\STEP IT\C++ (OOP)\HW\HW\Coplex.cpp(90,51): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Source.cpp
+  Создание кода...
+  HW.vcxproj -> D:\Projects\STEP IT\C++ (OOP)\HW\x64\Debug\HW.exe

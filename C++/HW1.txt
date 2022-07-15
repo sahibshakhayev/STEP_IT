@@ -1,0 +1,1 @@
+Установить Visual Studio Community(2019 или 2022) (с Desktop development with C++) и отправить скриншот

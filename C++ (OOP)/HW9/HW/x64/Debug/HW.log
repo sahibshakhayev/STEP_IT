@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Projects\STEP IT\C++ (OOP)\HW\HW\Ploshad.h(43,26): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  HW.vcxproj -> D:\Projects\STEP IT\C++ (OOP)\HW\x64\Debug\HW.exe
